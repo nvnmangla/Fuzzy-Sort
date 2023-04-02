@@ -1,5 +1,5 @@
 ## Fuzzy Sort 
-
+### Instructions
 ```
 git clone git@github.com:nvnmangla/Fuzzy-Sort.git
 cd Fuzzy-Sort
